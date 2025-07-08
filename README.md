@@ -24,7 +24,7 @@ Hi there! I'm Céline, a passionate UX/UI designer based in Paris. I specialize 
 
 ## 🚀 Featured Projects  
 Here are some of my favorite projects that showcase my skills:  
-1. [**StreamSense AI App**]([https://github.com/cmsavary/StreamSense-AI/tree/main]): An app created for Raise Your Hack 2025 Hackathon (https://www.raisesummit.com/)
+1. [**StreamSense AI App**]([https://github.com/cmsavary/StreamSense-AI/tree/main]): An app created for Raise Your Hack 2025 Hackathon(https://github.com/cmsavary/StreamSense-AI/tree/main)
 2. [**MenuHelp App**](https://chingu-voyages.github.io/V53-tier2-team-23/): An app created for Chingu Voyage 53 (https://github.com/chingu-voyages/V53-tier2-team-23/blob/main/README.md)
 3. [**City Cycles**](https://celinesavary.com/p/City-Cycles): A bike booking site designed with Figma, incorporating collaborative feedback to enhance usability.  
 4. [**Sit Conmigo**](https://celinesavary.com/p/Sit-Conmigo): A mobile-first website for an online retailer, focusing on accessibility and responsiveness.  
